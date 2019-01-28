@@ -1,0 +1,103 @@
+﻿Max Aaronson
+CS 342
+Project 3 Outputs:
+Simulation Complete!
+Probability of new plane in takeoff queue: 1.0
+Probability of new plane in landing queue: 0.5
+Time to take off: 4 mins
+Time to land: 3 mins
+Maximum time in air before crash: 3 mins
+Length of Simulation: 600 mins
+Results:
+Total Landings: 132
+Total Takeoffs: 15
+Total crashes: 170
+Average time in takeoff queue: 324.47 mins 
+Average time in landing queue: 2.39 mins 
+
+Simulation Complete!
+Probability of new plane in takeoff queue: 1.0
+Probability of new plane in landing queue: 0.1
+Time to take off: 4 mins
+Time to land: 3 mins
+Maximum time in air before crash: 3 mins
+Length of Simulation: 600 mins
+Results:
+Total Landings: 30
+Total Takeoffs: 96
+Total crashes: 29
+Average time in takeoff queue: 253.54 mins 
+Average time in landing queue: 1.90 mins 
+
+Simulation Complete!
+Probability of new plane in takeoff queue: 0.5
+Probability of new plane in landing queue: 0.1
+Time to take off: 4 mins
+Time to land: 3 mins
+Maximum time in air before crash: 3 mins
+Length of Simulation: 600 mins
+Results:
+Total Landings: 33
+Total Takeoffs: 94
+Total crashes: 21
+Average time in takeoff queue: 195.60 mins 
+Average time in landing queue: 2.06 mins 
+
+Simulation Complete!
+Probability of new plane in takeoff queue: 0.8
+Probability of new plane in landing queue: 0.3
+Time to take off: 4 mins
+Time to land: 3 mins
+Maximum time in air before crash: 3 mins
+Length of Simulation: 600 mins
+Results:
+Total Landings: 94
+Total Takeoffs: 45
+Total crashes: 83
+Average time in takeoff queue: 268.67 mins 
+Average time in landing queue: 2.19 mins 
+
+Simulation Complete!
+Probability of new plane in takeoff queue: 0.3
+Probability of new plane in landing queue: 0.7
+Time to take off: 4 mins
+Time to land: 3 mins
+Maximum time in air before crash: 3 mins
+Length of Simulation: 600 mins
+Results:
+Total Landings: 143
+Total Takeoffs: 6
+Total crashes: 273
+Average time in takeoff queue: 262.17 mins 
+Average time in landing queue: 2.68 mins 
+
+Simulation Complete!
+Probability of new plane in takeoff queue: 0.5
+Probability of new plane in landing queue: 0.5
+Time to take off: 4 mins
+Time to land: 3 mins
+Maximum time in air before crash: 3 mins
+Length of Simulation: 10000 mins
+Results:
+Total Landings: 2145
+Total Takeoffs: 284
+Total crashes: 2873
+Average time in takeoff queue: 4636.69 mins 
+Average time in landing queue: 2.40 mins 
+
+Simulation Complete!
+Probability of new plane in takeoff queue: 0.5
+Probability of new plane in landing queue: 0.5
+Time to take off: 4 mins
+Time to land: 3 mins
+Maximum time in air before crash: 5 mins
+Length of Simulation: 10000 mins
+Results:
+Total Landings: 2099
+Total Takeoffs: 321
+Total crashes: 2868
+Average time in takeoff queue: 4875.25 mins 
+Average time in landing queue: 2.41 mins 
+
+
+
